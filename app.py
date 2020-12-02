@@ -6,7 +6,7 @@ import requests
 from urllib.request import Request, urlopen
 from datetime import datetime
 
-TOKEN = '1423437285:AAGsL3kWuHjxFh6YgHSjvupGlOb5d0mVg48'
+TOKEN = '#TOKEN PLACE'
 bot = telegram.Bot(token=TOKEN)
 app = Flask(__name__)
 
