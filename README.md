@@ -3,7 +3,7 @@ This is the source code of an app that I built for a client. The client had a we
 <br>
 Language:<br>
 &empn - Python
-&empn&empn - Flask Web App (For routing)
-&empn&empn - Beautiful Soup (For Web Scrapping)
-&empn&empn - Telegram Api (For Sending & Recieving messages)
+&empn&empn * Flask Web App (For routing)
+&empn&empn * Beautiful Soup (For Web Scrapping)
+&empn&empn * Telegram Api (For Sending & Recieving messages)
 	In addition, Webhooks are used to invoke the app every time a message is sent from client side.
