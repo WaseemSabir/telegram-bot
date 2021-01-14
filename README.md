@@ -7,6 +7,7 @@ Language:
 	<ul>
 		<li> Flask Web App (For routing)</li>
 		<li> Beautiful Soup (For Web Scrapping)</li>
+		<li> urlib.request (To send get request to recieve html) </li>
 		<li> Telegram Api (For Sending & Recieving messages)</li>
 	</ul>
 </ul>
