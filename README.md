@@ -4,8 +4,10 @@ This is the source code of an app that I built for a client. The client had a we
 Language:<br>
 <ul>
 &emsp;  <li>Python</li><br>
+	<ul>
 &emsp;&emsp; <li> Flask Web App (For routing)</li><br>
 &emsp;&emsp; <li> Beautiful Soup (For Web Scrapping)</li><br>
 &emsp;&emsp; <li> Telegram Api (For Sending & Recieving messages)</li><br>
+	</ul>
 </ul>
 	In addition, Webhooks are used to invoke the app every time a message is sent from client side.
